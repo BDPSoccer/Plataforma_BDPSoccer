@@ -60,6 +60,6 @@ A janela após todas as calibrações serem feitas, é a janela da partida habil
 ## Fluxograma
 Abaixo está o fluxograma de ações que são executadas na janela principal para que a partida seja habilitada com sucesso. A barra de status é atualizada com as ações a serem feitas, erros que possam ocorrer e dicas sobre o próximo passo a ser feito.
 
-  <img src="Fluxograma.png">
+  <img src="Fluxograma_BDP.png">
 
 
